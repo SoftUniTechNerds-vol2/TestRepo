@@ -1,2 +1,6 @@
 name = Stoyan
 email = sliper96@abv.bg
+Name = George
+size = 99
+email = george@github.com
+
